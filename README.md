@@ -1,6 +1,6 @@
 # BitcoinSeller
 
-**THIS CODE IS PUBLIC TO DEMONSTRATE MY METHOD OF AUTOMATING THE PROCESS. IT IS IN NO STATE TO BE RUN BY ANYONE WHO DIDN'T WRITE IT THEMSELVES AND KNOWS EXACTLY WHAT IT DOES. THIS IS NOT FOR PUBLIC USE. DO NOT USE IT.**
+**The code in this repo was deigned for personal use and so it is not suited to be run by anyone who does not know exactly what it is doing and how to properly set it up. It is uploaded here as a demonstration only.**
 
 This program automates every part of selling Bitcoin to users on localbitcoins.com and buying it back at a cheaper price on the coinfloor.com bitcoin exchange.  Including verifying payment and changing the price to undercut other users advertisements.
 
